@@ -1,5 +1,5 @@
 # These are the directories listed in the default /etc/cracklib/cracklib.conf
-interest /usr/share/dict
-interest /usr/dict
-interest /usr/local/share/dict
-interest /usr/local/dict
+interest-noawait /usr/share/dict
+interest-noawait /usr/dict
+interest-noawait /usr/local/share/dict
+interest-noawait /usr/local/dict

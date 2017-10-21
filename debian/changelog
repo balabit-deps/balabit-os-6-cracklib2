@@ -1,3 +1,10 @@
+cracklib2 (2.9.2-1ubuntu1) xenial; urgency=medium
+
+  * Migrate triggers to interest-noawait to avoid trigger-cycles (Closes:
+    #859307, LP: #1681231)
+
+ -- Brian Murray <brian@ubuntu.com>  Fri, 20 Oct 2017 17:07:36 -0700
+
 cracklib2 (2.9.2-1build2) xenial; urgency=medium
 
   * No-change rebuild to drop python3.4 support.
